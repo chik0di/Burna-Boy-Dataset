@@ -1,4 +1,4 @@
-# Project-Burna
+# project-odogwu
 This project is designed to scrape Burna Boy's Spotify data using the Spotify Web API. Leveraging the spotipy library in Python, this procedure retrieves detailed information about Burna Boy's songs, albums, and related statistics directly from Spotify.
 
 # License
